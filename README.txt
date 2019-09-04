@@ -6,3 +6,4 @@ yellow
 green
 blue
 purple
+turkuaz
