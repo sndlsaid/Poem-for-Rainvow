@@ -9,3 +9,4 @@ purple
 turkuaz
 Hello, I am your mama
 Sun want to go with Rainbow. Hello Sun
+we need to change our kingdom name
